@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+downloads/
+clips/
+temp/
+.streamlit/secrets.toml
